@@ -1,4 +1,3 @@
-
 let toggle;
 let questions = {
     "q1": "How are you?",
